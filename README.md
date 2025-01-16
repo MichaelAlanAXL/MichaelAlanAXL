@@ -11,7 +11,7 @@ Quero, com os conhecimentos que adquiri, poder ajudar pessoas e empresas que gos
 ## Minha evolução
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MichaelAlanAXL&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=MichaelAlanAXL&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ## Alguns de meus conhecimentos adqueridos 
 
