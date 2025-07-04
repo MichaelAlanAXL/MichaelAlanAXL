@@ -1,6 +1,6 @@
 # Michael Alan
 
-Olá! Seja bem vindo(a) ao meu perfil, eu comecei a programar em PHP 7 desde então não consigo mais parar 🥰. Aprendi muito construindo uma aplicação web e-commerce, utilizei outras linguagens: javascript; html; css; MySql; jQuery. 
+Olá! Seja bem vindo(a) ao meu perfil, eu comecei a programar em PHP 7 desde então não consigo mais parar 🥰. Aprendi muito construindo uma aplicação web e-commerce, utilizei outras linguagens: JavaScript; HTML; CSS; MySql; jQuery. 
 
 Quero, com os conhecimentos que adquiri, poder ajudar pessoas e empresas que gostam de tecnologia.
 
